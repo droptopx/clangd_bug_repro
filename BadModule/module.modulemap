@@ -1,0 +1,3 @@
+module BadModule {
+  umbrella header "BadModule.h"
+}
