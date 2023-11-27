@@ -1,5 +1,7 @@
 # Clang(d?) bug repro
 
+This repo reproduces [this issue](https://github.com/clangd/clangd/issues/1838).
+
 Please run with:
 
 ```sh
